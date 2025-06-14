@@ -1,0 +1,7 @@
+I admit im not the most skilled in these area
+I'm trying to better myself by practicing and looking for sources that would help me code.
+Hopefully I wont have to rely on these sources and code by myself in the near future.
+This sources are mostly youtube lecture videoes, useful websites like geeksforgeeks, leetcode and others as well
+This assignment was difficult to do alone so I have relied in all of those above to help me out I even reached out to a friend of mine(3rd year SE student)for help
+
+Thankyou for your attention in this matter
